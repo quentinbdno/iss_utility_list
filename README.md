@@ -1,8 +1,8 @@
 # iss_utility_list
-Cybersecurity is a vast domain. It is really difficult for beginner to find their way. To help them start their journey or to remind older members of the community, I create a list of all ressources that can help us. 
+Cybersecurity is a vast domain. It is really difficult for beginner to find their way. To help them start their journey or to remind older members of the community, I create a list of all ressources that can help us.
 You can use freely this database.
 
-They are presented in [https://www.datatatemplar.fr](https://datatemplar.fr/veille/). On the page, you will have the possibility to filters the results. 
+They are presented in [https://www.datatatemplar.fr](https://datatemplar.fr/veille/). On the page, you will have the possibility to filters the results.
 
 I hope you will make a lot of pull requests to improve this database.
 
@@ -12,7 +12,6 @@ You can propose a modification in an existing file or create a new one in order 
 ```yaml
 Titre: "Name of the object"
 Website: "https://example.com"
-Contact: "contact@example.com" #Can be empty
 Type: [Association, Podcast, Newswebsite, Newsletter ] #One element of the list
 Langue: [fr,en,es,ru] #One element of the list
 Localisation: "postal address"
