@@ -7,7 +7,9 @@ They are presented in [https://www.datatatemplar.fr](https://datatemplar.fr/veil
 I hope you will make a lot of pull requests to improve this database.
 
 # Propose an item to the list
-You can propose a modification in an existing file or create a new one in order to add an item to the list. An object is represented by a YAML file. You just need to follow this template.
+You can propose a modification of an existing file or create a new one in order to add an item to the list. An object is represented by a YAML file. You just need to follow this template.
+If you are an expert with github, just fork the project and make a pull request to integrate your changes. 
+If you are a beginner, you can create an [issue](https://github.com/datatemplar/iss_utility_list/issues/new/choose) by following this link or in the top menu. 
 
 ```yaml
 Titre: "Name of the object"
@@ -20,3 +22,7 @@ Level: [Débutant, Intermédiaire, Expert] #One element of the list. Define the 
 
 # Delete an element in the list
 You want to delete an element in the list ? You can create an issue ticket and I will delete it.
+
+# Contributors
+You can thanks the following contributors of this project : 
+...
